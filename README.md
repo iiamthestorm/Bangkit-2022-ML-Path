@@ -5,4 +5,4 @@
 Bangkit is designed to prepare students with in-demand skills and tech certifications, the Bangkit curriculum offers 3 interdisciplinary learning paths - machine learning, mobile development, and cloud computing. The curriculum of Machine Learning path includes Google IT Automation with Python Professional, Google IT Support, Mathematics for Machine Learning, Deep Learning AI TensorFlow Developer Professional, TensorFlow: Data and Deployment Specialization, Structuring Machine Learning Projects, and others. The program also provides tech expertise and soft skills needed to transit from academia to the workplace and succeed at leading companies. This program is held from February to July 2022.
 
 ## What is inside of this Repo?
-This Repo contained some of my codes i used for learning in Bangkit 2022. Some may useful in the future so i guess i will put them here. 以上です。
+This Repo contained courses certificate and some of my codes i used for learning in Bangkit 2022. Some may useful in the future so i guess i will put them here. 以上です。
