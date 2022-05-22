@@ -9,4 +9,9 @@
 **The program also provides** tech expertise and soft skills needed to transit from academia to the workplace and succeed at leading companies. This program is held from February to July 2022.
 
 ## What is inside of this Repo?
-**This Repo contained** courses certificate and some of my codes i used for learning in Bangkit 2022. Some may useful in the future so i guess i will put them here. 以上です。
+**This Repo contained** courses certificate and some of my codes i used for learning in Bangkit 2022. Some may useful in the future so i guess i will put them here.  
+click here to see:
+- [Certificates](https://github.com/iiamthestorm/Bangkit-2022-ML-Path/tree/main/Certificate)
+- [Codes](https://github.com/iiamthestorm/Bangkit-2022-ML-Path/tree/main/Codes)  
+ 
+以上です、ありがとうございました。🙌
